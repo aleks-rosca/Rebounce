@@ -93,7 +93,7 @@
                                         <?php
         $host ="localhost";
         $uname = "root";
-        $pwd = '';
+        $pwd = '3223';
         $db_name = "userlogin";
 
         $u = $_SESSION['username'];

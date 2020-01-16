@@ -86,7 +86,7 @@
                             <?php
 $dbHost     = "localhost";
 $dbUsername = "root";
-$dbPassword = "";
+$dbPassword = "3223";
 $dbName     = "userlogin";
 
 $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);

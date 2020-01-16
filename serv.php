@@ -9,7 +9,7 @@ $phonenumber = "";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'userlogin') or die("could not connect");
+$db = mysqli_connect('localhost', 'root', '3223', 'userlogin') or die("could not connect");
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
